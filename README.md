@@ -1,2 +1,2 @@
 # weatherapp
-A weather that display pictures
+A weather that display pictures based on their location
